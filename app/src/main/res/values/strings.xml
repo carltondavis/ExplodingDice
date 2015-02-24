@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RunnerDice</string>
+    <string name="action_reset">Reset Dice</string>
+    <string name="Hits">0</string>
+    <string name="Ones">0</string>
+    <string name="Sixes">0</string>
+    <string name="Total">0</string>
+
+</resources>
