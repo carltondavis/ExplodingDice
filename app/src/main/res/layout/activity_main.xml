@@ -117,7 +117,8 @@
         android:layout_toStartOf="@+id/numberPicker"
         android:gravity="center_vertical|right"
         android:layout_alignRight="@+id/PostEdge"
-        android:layout_alignEnd="@+id/PostEdge" />
+        android:layout_alignEnd="@+id/PostEdge"
+        android:textSize="@dimen/abc_text_size_small_material" />
 
     <Button
         style="?android:attr/buttonStyleSmall"

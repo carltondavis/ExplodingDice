@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">RunnerDice</string>
+    <string name="app_name">Exploding Dice</string>
     <string name="action_reset">Reset Dice</string>
     <string name="Hits">0</string>
     <string name="Ones">0</string>
